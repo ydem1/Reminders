@@ -1,0 +1,12 @@
+body{
+  padding: 250px 0px;
+  display: flex;
+  justify-content: center;
+}
+p{
+  margin: 0;
+  font-family: 'Source Sans Pro', Arial;
+  font-size: 35px;
+  color:rgb(24, 119, 242);
+  font-weight: 700;
+}
